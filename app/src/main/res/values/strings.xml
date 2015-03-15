@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">UI designer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="layout_gravity_values">
+        <item>top</item>
+        <item>bottom</item>
+        <item>left</item>
+        <item>right</item>
+        <item>center_vertical</item>
+        <item>fill_vertical</item>
+        <item>center_horizontal</item>
+        <item>fill_horizontal</item>
+        <item>center</item>
+        <item>fill</item>
+        <item>clip_vertical</item>
+        <item>clip_horizontal</item>
+        <item>start</item>
+        <item>end</item>
+    </string-array>
+
+    <string-array name="gravity_values">
+        <item>AXIS_CLIP</item>
+        <item>AXIS_PULL_AFTER</item>
+        <item>AXIS_PULL_BEFORE</item>
+        <item>AXIS_SPECIFIED</item>
+        <item>AXIS_X_SHIFT</item>
+        <item>AXIS_Y_SHIFT</item>
+        <item>BOTTOM</item>
+        <item>CENTER</item>
+        <item>CENTER_HORIZONTAL</item>
+        <item>CENTER_VERTICAL</item>
+        <item>CLIP_HORIZONTAL</item>
+        <item>CLIP_VERTICAL</item>
+        <item>DISPLAY_CLIP_HORIZONTAL</item>
+        <item>DISPLAY_CLIP_VERTICAL</item>
+        <item>END</item>
+        <item>FILL</item>
+        <item>FILL_HORIZONTAL</item>
+        <item>FILL_VERTICAL</item>
+        <item>HORIZONTAL_GRAVITY_MASK</item>
+        <item>LEFT</item>
+        <item>NO_GRAVITY</item>
+        <item>RELATIVE_HORIZONTAL_GRAVITY_MASK</item>
+        <item>RELATIVE_LAYOUT_DIRECTION</item>
+        <item>RIGHT</item>
+        <item>START</item>
+        <item>TOP</item>
+        <item>VERTICAL_GRAVITY_MASK</item>
+    </string-array>
+</resources>
